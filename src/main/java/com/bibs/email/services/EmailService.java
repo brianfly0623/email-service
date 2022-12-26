@@ -22,7 +22,7 @@ public class EmailService {
     @Autowired
     private JavaMailSender emailSender;
 
-    public void sendEmail(EmailModel emailModel) {
+    public EmailModel sendEmail(EmailModel emailModel) {
         emailModel.setSendDateEmail(LocalDateTime.now());
         try {
             SimpleMailMessage message = new SimpleMailMessage();

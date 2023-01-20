@@ -1,5 +1,5 @@
 # email-service
-Email service using Java 8 and Spring Boot
+Email service using Java 11 and Spring Boot
 
 Technologies used:
 

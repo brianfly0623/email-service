@@ -1,5 +1,5 @@
 # email-service
-Email service using Java 11 and Spring Boot
+Email service using Java 11, Spring Boot and [Gmail's](https://support.google.com/accounts/answer/185833) Simple Mail Transfer Protocol (SMTP). This project is  video tutorial made by [Michelli Brito](https://www.youtube.com/watch?v=ZBleZzJf6ro).
 
 Technologies used:
 
